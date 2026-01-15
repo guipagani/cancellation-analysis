@@ -6,7 +6,7 @@ Este projeto consiste numa análise de dados focada em compreender os motivos de
 
 O projeto foi proposto pela **jornada python**, semana de aprendizado realizado pela escola online de programação brasileira **Hashtag Programação**. 
 
-🔗 Referência: [https://www.youtube.com/watch?v=0GDt-6H9NWM]
+🔗 Referência: [https://www.youtube.com/watch?v=0c2AfijcWb0]
 
 ---
 
