@@ -18,7 +18,7 @@ O projeto foi proposto pela **jornada python**, semana de aprendizado realizado 
 * **Bibliotecas:**
 
   * `Pandas` (leitura e tratamento de DataFrames)
-  * `Matplotlib` (visualização da base de dados)
+  * `Matplotlib`, `Seaborn`, `Plotly` (visualização dos dados)
 
 ---
 
