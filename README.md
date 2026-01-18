@@ -28,14 +28,12 @@ A organização do projeto segue a estrutura detectada no ambiente de desenvolvi
 
 ```plaintext
 cancellation-analysis/
-├── .venv/               # ambiente de execução gerenciado pelo uv
 ├── data/
-│   ├── raw/             # Coloque aqui o CSV original do Google Drive (ex: cancelamentos.csv)
-│   └── processed/       # Para salvar dados limpos/tratados futuramente
+│   ├── raw/             # DataSet
+│   └── processed/       # Dados Limps
 ├── notebooks/           # Relatório em Jupyter Notebook
-├── src/                 # Scripts Python com funções reutilizáveis
-├── pyproject.toml       # dependências
-├── uv.lock              # versões exatas
+├── src/                 # Scripts Auxiliares
+├── pyproject.toml       # Dependências
 └── README.md            # Documentação do projeto
 ```
 
